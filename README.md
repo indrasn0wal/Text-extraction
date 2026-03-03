@@ -4,7 +4,7 @@ Automated transcription pipeline for 17th century Spanish printed documents.
 Built as part of the RenAIssance GSoC 2025 evaluation test at CERN.
 ---
 ## Demo Video
-<video src="video demo/demo.mp4" controls="controls" style="max-width: 100%;">
+<video src="video-demo/demo.mp4" controls="controls" style="max-width: 100%;">
 </video>
 ---
 ---
