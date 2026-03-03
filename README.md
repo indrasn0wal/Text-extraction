@@ -101,7 +101,7 @@ identification.
 
 ### SSL Experiments (MAE + DINOv2)
 Attempted self-supervised pretraining on 1,373 unlabeled pages to improve
-TrOCR encoder representations before fine-tuning. See README section below.
+TrOCR encoder representations before fine-tuning.
 
 ---
 
